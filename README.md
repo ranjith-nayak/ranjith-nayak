@@ -23,7 +23,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 - **Project 1:** [Weather Application](https://github.com/ranjith-nayak/weather-app) - Using HTML, CSS, JS, and Weather API Key, this user-friendly application can provide current and upcoming weather conditions.
 - **Project 2:** [Rock-Paper-Scissor](https://github.com/ranjith-nayak/Rock-Paper-Scissors) - Developed using HTML, CSS, JS, this game is a fun time-pass played between the user and the computer.
-- **Project 3:** [Simple Calculator]() - With using the HTML, CSS, JS Languages and also thr basic Math Arithmetic Logic , developed a small User Friendly Calculator.
+- **Project 3:** [Simple Calculator](https://github.com/ranjith-nayak/Simple-Calculator) - With using the HTML, CSS, JS Languages and also thr basic Math Arithmetic Logic developed an user friendly Calculator.
   
 ## Get in Touch
 
