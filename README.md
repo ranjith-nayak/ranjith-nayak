@@ -33,4 +33,4 @@ Looking forward to connecting with you!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
 
-![GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![GIF]("C:\Users\user\Downloads\programmer.gif")
