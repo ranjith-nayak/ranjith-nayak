@@ -17,6 +17,11 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 - **Frameworks:** React, Node.js, Bootstrap
 - **Tools:** Git, GitHub, MySQL, VS Code
 
+## Projects and Contributions
+
+- **Project 1:** [Weather Application ](URL_TO_PROJECT) - With using the HTML,CSS,JS languages and Weather API Key ,this user friendly Weather application can also able to give the weather conditions of present days and also next upcoming days too. 
+- **Project 2:** [Rock-Paper-Scissor ](URL_TO_PROJECT) -  With using the HTML,CSS,JS languages ,just for time pass have developed a game which is played between User and Computer.
+
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/ranjith-a-r)
