@@ -1,6 +1,6 @@
 # Hi there, I'm Ranjith A R 👋
 
-![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+![GIF](https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif)
 
 ## About Me
 
@@ -26,11 +26,15 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/ranjith-a-r)
-- [Twitter](https://twitter.com/ranjith-a-r)
-
-Looking forward to connecting with you!
+-  Linkedin - [Ranjith A R ](www.linkedin.com/in/ranjith-a-r)
+- Twitter - [Ranjith A R ](https://twitter.com/ranjith-a-r)
+- Instagram - [Ranjith A R ](Https://instagram.com/reign_jeeth)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
 
-![GIF](https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=ranjith-nayak&color=blue&shape=flat-square)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjith-nayak&theme=dark)
+
+Looking forward to connect with you so that let's contribute and exchange our knowledge and creativity too!!
