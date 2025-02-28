@@ -21,8 +21,8 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ## Projects and Contributions
 
-- **Project 1:** [Weather Application](https://github.com/ranjith-nayak/weather-app) - Using HTML, CSS, JS, and a Weather API Key, this user-friendly application can provide current and upcoming weather conditions.
-- **Project 2:** [Rock-Paper-Scissor](URL_TO_PROJECT) - Developed using HTML, CSS, JS, this game is a fun time-pass played between the user and the computer.
+- **Project 1:** [Weather Application](https://github.com/ranjith-nayak/weather-app) - Using HTML, CSS, JS, and Weather API Key, this user-friendly application can provide current and upcoming weather conditions.
+- **Project 2:** [Rock-Paper-Scissor](https://github.com/ranjith-nayak/Rock-Paper-Scissors) - Developed using HTML, CSS, JS, this game is a fun time-pass played between the user and the computer.
 
 ## Get in Touch
 
