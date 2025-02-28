@@ -1,5 +1,7 @@
 # Hi there, I'm Ranjith A R 👋
 
+![Profile Banner](URL_TO_YOUR_BANNER_IMAGE)
+
 ## About Me
 
 I'm a code enthusiast who thrives on building innovative solutions and contributing to the open-source community. 
@@ -8,7 +10,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 - 🌱 I’m continuously learning about new technologies and best practices.
 - 👯 I’m looking to collaborate on open-source projects and contribute to the community.
 - 💬 Ask me about web development, machine learning, or any other tech-related topics.
-- 📫 How to reach me: 24ranjith2003@gmail.com . 
+- 📫 How to reach me: 24ranjith2003@gmail.com
 - ⚡ Fun fact: I love to learn new real-world Human Languages.
 
 ## Languages and Tools
@@ -19,8 +21,8 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ## Projects and Contributions
 
-- **Project 1:** [Weather Application ](URL_TO_PROJECT) - With using the HTML,CSS,JS languages and Weather API Key ,this user friendly Weather application can also able to give the weather conditions of present days and also next upcoming days too. 
-- **Project 2:** [Rock-Paper-Scissor ](URL_TO_PROJECT) -  With using the HTML,CSS,JS languages ,just for time pass have developed a game which is played between User and Computer.
+- **Project 1:** [Weather Application](URL_TO_PROJECT) - Using HTML, CSS, JS, and a Weather API Key, this user-friendly application can provide current and upcoming weather conditions.
+- **Project 2:** [Rock-Paper-Scissor](URL_TO_PROJECT) - Developed using HTML, CSS, JS, this game is a fun time-pass played between the user and the computer.
 
 ## Get in Touch
 
@@ -28,3 +30,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 - [Twitter](https://twitter.com/ranjith-a-r)
 
 Looking forward to connecting with you!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
+
+![GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
