@@ -33,4 +33,4 @@ Looking forward to connecting with you!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
 
-![GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitgenio.net%2Fblog%2Fprogrammers-essential-kit&psig=AOvVaw2Tkpv5keWYlrUr3OHc2P8I&ust=1740847634655000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCL_8rp5osDFQAAAAAdAAAAABAE)
+![GIF](https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif)
