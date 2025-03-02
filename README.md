@@ -21,12 +21,6 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 - **Frameworks:** React, Node.js, Bootstrap
 - **Tools:** Git, GitHub, MySQL, VS Code
 
-## Projects and Contributions
-
-- **Project 1:** [Weather Application](https://github.com/ranjith-nayak/weather-app) - Using HTML, CSS, JS and Weather API Keys, this user-friendly application can provide current and upcoming weather conditions.
-- **Project 2:** [Rock-Paper-Scissor](https://github.com/ranjith-nayak/Rock-Paper-Scissors) - Developed using HTML, CSS, JS this game is a fun time-pass played between the user and the computer.
-- **Project 3:** [Simple Calculator](https://github.com/ranjith-nayak/Simple-Calculator) - Using HTML, CSS, and JS this user-friendly calculator is built with basic arithmetic logic.
-
 
 ## Get in Touch
 
