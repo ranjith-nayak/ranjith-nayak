@@ -32,6 +32,6 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ranjith-nayak&color=blue&shape=flat-square)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranjith-nayak&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ranjith-nayak&theme=dark)
 
 Looking forward to connecting with you so that we can contribute and exchange our knowledge and creativity too!!
