@@ -34,3 +34,11 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 
 Looking forward to connecting with you so that we can contribute and exchange our knowledge and creativity too!!
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ranjith-nayak/ranjith-nayak/output/github-snake.svg" />
+</picture>
