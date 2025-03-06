@@ -1,4 +1,6 @@
-# <h1 align="center">Hi there, I'm Ranjith A R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=ranjith-nayak&color=blue&shape=flat-square" />
+
+# <h1 align="center"> Hi there, I'm Ranjith A R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h1>
 <h2 align="center"> Bridging the gap between creativity and logic with code!</h2>
 <br>
 
@@ -30,7 +32,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ranjith-nayak&color=blue&shape=flat-square)
+
 
 
 Looking forward to connecting with you so that we can contribute and exchange our knowledge and creativity too!!
