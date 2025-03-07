@@ -11,8 +11,8 @@
 
 I'm a code enthusiast who thrives on building innovative solutions and contributing to the open-source community.
 
-- 🔭 I’m currently working on several exciting projects.
-- 🌱 I’m continuously learning about new technologies and best practices.
+- 🔭 I’m currently working on some exciting projects.
+- 🌱 I’m continuously learning about new technologies and practicing things which i've learnt.
 - 👯 I’m looking to collaborate on open-source projects and contribute to the community.
 - 💬 Ask me about web development or any other tech-related topics.
 - 📫 How to reach me: 24ranjith2003@gmail.com
@@ -32,11 +32,11 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true)
 
+## GitHub Streak
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranjith-nayak&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 Looking forward to connecting with you so that we can contribute and exchange our knowledge and creativity too!!
-
 
 
 <picture>
