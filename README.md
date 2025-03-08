@@ -41,7 +41,12 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 </div>
 </br>
 
-Looking forward to connecting with you so that we can be able to contribute and exchange our knowledge,creativity & expand the networking!!!
+## <h2 align="center"> GitHub Trophies </h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjith-nayak&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+Looking forward to connecting with you so that we can be able to contribute and exchange our knowledge, creativity & expand the networking!!!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake-dark.svg" />
