@@ -33,6 +33,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true" alt="GitHub Stats">
 </div>
+</br>
 
 ## <h2 align="center"> GitHub Streak 🔥</h2>
 
