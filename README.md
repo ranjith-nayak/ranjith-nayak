@@ -41,6 +41,7 @@ I'm a code enthusiast who thrives on building innovative solutions and contribut
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ranjith-nayak&theme=highcontrast&hide_border=true" alt="GitHub Streak"></a>
 </div>
 </br>
+</br>
 
 
 ## <h2 align="center"> GitHub Trophies 🏆</h2>
