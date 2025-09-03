@@ -10,14 +10,14 @@
 
 ## <h2 align="center">About Me  </h2>
 
-I’m a Data Analyst passionate about transforming raw, complex datasets into powerful stories and actionable insights that drive smarter decisions.
+I'm a Data Analyst who transforms raw numbers into clear, impactful insights that drive strategy and innovation.
 
--📊 I turn endless rows and columns into stories that even spreadsheets are proud of.
--🛢️ I dive into databases like a detective, finding answers hidden between the lines.
--🐍 I let code do the heavy lifting, from cleaning chaos to painting insights.
--📈 I craft dashboards that don’t just show numbers, but guide smarter choices.
--🧩 I enjoy piecing together data puzzles until clarity emerges.
--⚡ I live where logic meets creativity — translating raw data into real decisions.
+📊 I turn endless rows and columns into stories that even spreadsheets are proud of.  
+🛢️ I dive into databases like a detective, finding answers hidden between the lines.  
+🐍 I let code do the heavy lifting, from cleaning chaos to painting insights.  
+📈 I craft dashboards that don’t just show numbers, but guide smarter choices.  
+🧩 I enjoy piecing together data puzzles until clarity emerges.  
+⚡ I live where logic meets creativity — translating raw data into real decisions.  
 
 ## <h2 align="center">Skills  </h2>
 <p align="center">
