@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ranjith-nayak&color=blue&shape=flat-square" />
 
 # <h1 align="center"> Hi there, I'm Ranjith A R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h1>
-<h2 align="center"> Exploring data like a detective, delivering insights like a strategist. </h2>
+<h2 align="center"> Exploring data like a detective, delivering insights like a strategist! </h2>
 <br>
 
 <div align="center">
