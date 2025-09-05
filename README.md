@@ -35,7 +35,6 @@ I'm a Data Analyst who transforms raw numbers into clear, impactful insights tha
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-2E6E9E?style=for-the-badge&logo=python&logoColor=white" />
 
 <!-- Core Skills -->
 <img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
