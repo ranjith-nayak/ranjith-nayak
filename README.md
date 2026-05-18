@@ -8,7 +8,7 @@
   <img src="https://cdn.prod.website-files.com/6672f2c52186ba163a2a83d7/669ebe50d27619711b006102_Data%20report.gif" alt="GIF">
 </div>
 
-## <h2 align="center">About Me  </h2>
+## <h2 align="center"> 🧠 About Me  </h2>
 
 I'm a Data Analyst who transforms raw numbers into clear, impactful insights that drive strategy and innovation.
 
@@ -19,7 +19,7 @@ I'm a Data Analyst who transforms raw numbers into clear, impactful insights tha
 - I enjoy piecing together data puzzles until clarity emerges.  
 - I live where logic meets creativity — translating raw data into real decisions.  
 
-## <h2 align="center">Skills  </h2>
+## <h2 align="center">⚒️ Skills  </h2>
 <p align="center">
 
 <!-- Languages & Tools -->
@@ -43,53 +43,37 @@ I'm a Data Analyst who transforms raw numbers into clear, impactful insights tha
 <img src="https://img.shields.io/badge/Reporting-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 <!-- Additional Knowledge on -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </p>
   
 
-## <h2 align="center"> Get in Touch of me </h2>
+## <h2 align="center"> 🌐 Get in Touch of me </h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ranjith-a-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/ranjith-a-r"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:your-24ranjith2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:24ranjith2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/reign_jeeth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.reddit.com/user/your_reddit_username"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 </div>
 
-## <h2 align="center"> GitHub Stats 📊</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true" alt="GitHub Stats">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170em" src="https://streak-stats.demolab.com?user=ranjith-nayak&theme=transparent&hide_border=true" />
 </div>
-</br>
-
-## <h2 align="center"> GitHub Streak </h2>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ranjith-nayak&theme=highcontrast&hide_border=true" alt="GitHub Streak"></a>
-</div>
-</br>
-</br>
-
-
-## <h2 align="center"> GitHub Trophies </h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjith-nayak&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 <br>
-</br>
-</br>
 
-Looking forward to connecting with you so that we can be able to contribute and exchange our knowledge, creativity & expand the networking!!!
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ranjith-nayak&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake-dark.svg" />
