@@ -56,27 +56,29 @@ I'm a Data Analyst who transforms raw numbers into clear, impactful insights tha
   <a href="https://x.com/ranjith-a-r"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:24ranjith2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://instagram.com/reign_jeeth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.reddit.com/user/your_reddit_username"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://www.reddit.com/user/reign_jeeth"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
 </div>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📈 GitHub Statistics</h2>
+<div align="center"
+
+<br>
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ranjith-nayak&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="170em" src="https://streak-stats.demolab.com?user=ranjith-nayak&theme=transparent&hide_border=true" />
+<img height="170em" src="https://streak-stats.demolab.com?user=ranjith-nayak&theme=transparent&hide_border=true"/>
 </div>
-</div>
+
 <br>
 
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🐍 Contribution Graph</h2>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ranjith-nayak&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//ranjith-nayak//ranjith-nayak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ranjith-nayak/ranjith-nayak/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ranjith-nayak/ranjith-nayak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ranjith-nayak/ranjith-nayak/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/ranjith-nayak/ranjith-nayak/output/github-snake.svg" />
 </picture>
+</div>
