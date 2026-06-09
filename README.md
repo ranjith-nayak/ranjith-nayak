@@ -20,34 +20,41 @@ I'm a Data Analyst who transforms raw numbers into clear, impactful insights tha
 - I live where logic meets creativity — translating raw data into real decisions.  
 
 ## <h2 align="center">⚒️ Skills  </h2>
-<p align="center">
+<div align="center">
 
-<!-- Languages & Tools -->
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-
-<!-- Python Libraries -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<!-- Core Skills -->
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Data%20Cleaning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Visualization-008080?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Transformation-0A66C2?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-6A1B9A?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-795548?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-FF5722?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Statistical%20Analysis-6A1B9A?style=for-the-badge&logo=google-analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Reporting-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-<!-- Additional Knowledge on -->
+<img src="https://img.shields.io/badge/Data%20Visualization-008080?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Storytelling-673AB7?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Analytics-1565C0?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Business%20Intelligence-FFC107?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/KPI%20Reporting-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Modeling-3F51B5?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-</p>
-  
+</div>
 
 ## <h2 align="center"> 🌐 Get in Touch of me </h2>
 
