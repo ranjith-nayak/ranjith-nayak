@@ -10,14 +10,14 @@
 
 ## <h2 align="center"> 🧠 About Me  </h2>
 
-I'm a Data Analyst who transforms raw numbers into clear, impactful insights that drive strategy and innovation.
+I'm an analyst with a builder's mindset, constantly learning, experimenting, and pushing beyond what I knew yesterday.
 
-- I turn endless rows and columns into stories that even spreadsheets are proud of.  
-- I dive into databases like a detective, finding answers hidden between the lines.  
-- I let code do the heavy lifting, from cleaning chaos to painting insights.  
-- I craft dashboards that don’t just show numbers, but guide smarter choices.  
-- I enjoy piecing together data puzzles until clarity emerges.  
-- I live where logic meets creativity — translating raw data into real decisions.  
+- I learn best when curiosity meets action.
+- Every project is an experiment, every challenge is a lesson.
+- I enjoy exploring unfamiliar problems and building my way through them.
+- Growth comes from creating, not consuming.
+- Turning "I don't know how" into "I built it" is my favorite part of learning.
+- Always aiming to build something better than my last project.  
 
 ## <h2 align="center">⚒️ Skills  </h2>
 <div align="center">
