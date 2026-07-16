@@ -39,10 +39,10 @@ Developer:
   Ranjith A R
 
 Role:
-  Data Product Builder
+  Data Professional
 
 Availability:
-  Open to Opportunities
+  Open to any work Opportunities
 
 Specialization:
   - Data Engineering
