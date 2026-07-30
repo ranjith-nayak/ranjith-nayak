@@ -314,7 +314,7 @@ Current Version:
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://x.com/ranjith-a-r">
+<a href="https://x.com/Run_j1th">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
